@@ -1,3 +1,4 @@
+![Header image for Laravel + React](/resources/images/laravel-plus-react.png)
 # Laravel + React
 ### How to add React to an existing Laravel project without using an SPA
 
@@ -8,6 +9,8 @@ Please read the article for a fuller understanding of this sample project.
 Laravel 8.0    
 React 16.13.1    
 laravel-mix 5.0.1    
+
+![Screenshot of project running](/resources/images/screenshot-laravel-plus-react.png)
 
 ## Running locally
 * Download or clone this repo.    
