@@ -11,6 +11,14 @@ window.axios = require('axios');
 window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 /**
+ * You can uncomment the next two lines to attach React globally.
+ * This may become necessary when using other packages.
+ */
+// window.React = require('react');
+// window.ReactDOM = require('react-dom');
+
+
+/**
  * Echo exposes an expressive API for subscribing to channels and listening
  * for events that are broadcast by Laravel. Echo and event broadcasting
  * allows your team to easily build robust real-time web applications.
